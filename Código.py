@@ -8,7 +8,7 @@ import mysql.connector
 
 print("Conectando")
 cnx = mysql.connector.connect(user='adrianlan', password='1234',
-                                 host='192.168.100.157',
+                                 host='192.168.100.158',
                                  database='RFID')
 
 print("Conectado a la base de datos")
